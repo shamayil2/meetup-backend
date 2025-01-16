@@ -1,0 +1,85 @@
+[{
+        "title": "Tech Conference",
+        "host": "Tech Leads",
+        "image": "https://a.storyblok.com/f/188325/1920x1280/41e681c422/alexandre-pellaes-6vajp0pscx0-unsplash-1-1.jpg",
+        "details": "The Tech Conference 2025 is where innovation meets opportunity. Connect with industry leaders, explore cutting-edge advancements, and dive into the technologies shaping tomorrow’s world.Be part of the revolution shaping the future of technology. Secure your spot today!",
+        "dress": "Semi Formals",
+        "age": "21 and above",
+        "tags": ["technology", "coding"],
+        "startDate": "2025-02-27T10:30:00Z",
+        "endDate": "2025-02-30T14:30:00Z",
+        "address": "Tech Park Bay Area, San Francisco",
+        "price": 1200,
+        "speakers": [{ "name": "Sherol SandBurg", "position": "Frontend Expert", "profilePic": "https://plus.unsplash.com/premium_photo-1688891564708-9b2247085923?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww" }, { "name": "Thomas Salva", "position": "AI Lead", "profilePic": "https://plus.unsplash.com/premium_photo-1689530775582-83b8abdb5020?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww" }],
+        "eventType": "Offline"
+
+
+    }, {
+        "title": "Design Workshop",
+        "host": "UI Designers",
+        "image": "https://www.designworkshop.com/img/home_join2.jpg",
+        "details": "Are you ready to elevate your design skills? Whether you're a seasoned designer or a beginner looking to sharpen your creative edge, this Design Workshop 2025 is for you. Join us for an immersive, hands-on learning experience where you’ll explore the latest trends, tools, and techniques in the world of design.",
+        "dress": "Stylish Casuals",
+        "age": "17 and above",
+        "tags": ["design", "art"],
+        "startDate": "2025-04-27T10:30:00Z",
+        "endDate": "2025-05-10T14:30:00Z",
+        "address": "Design Park Sea Area, San Diego",
+        "price": 2000,
+        "speakers": [{ "name": "Betris Fuller", "position": "Design Expert", "profilePic": "https://plus.unsplash.com/premium_photo-1669879825881-6d4e4bde67d5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww" }, { "name": "Bojack Chavex", "position": "UI Expert", "profilePic": "https://media.gettyimages.com/id/1473893794/photo/smiling-businessman-gesturing-against-blue-background.jpg?s=612x612&w=gi&k=20&c=U0f5FDG3VfZRXady69Ni7SCqAuCxwubjhRuDTywFKCM=" }],
+        "eventType": "Offline"
+
+
+    },
+    {
+        "title": "Vlogging Discussion",
+        "host": "Top Youtubers",
+        "image": "https://martech.org/wp-content/uploads/2016/03/YouTube_Brandcast2015-1920.png",
+        "details": "Vlogging is more than just sharing your life – it's about creating a connection with an audience, expressing your unique perspective, and telling compelling stories. Whether you're interested in travel, lifestyle, tech, or any niche, vlogging is an incredible way to engage with people and build your brand.",
+        "dress": "Semi Casuals",
+        "age": "16 and above",
+        "tags": ["vlogs", "youtube", "editing"],
+        "startDate": "2025-06-07T10:30:00Z",
+        "endDate": "2025-06-10T14:30:00Z",
+        "address": "Open Arena Plain Area, Chicago City",
+        "price": 1300,
+        "speakers": [{ "name": "Johnny Peter", "position": "Top Youtuber", "profilePic": "https://media.istockphoto.com/id/1466995518/photo/business-woman-and-worker-portrait-at-office-desk-as-administration-executive-company-manager.jpg?s=612x612&w=0&k=20&c=NvKeG6Fh0_VVfH_N0Ka-5j8284XJhL2VTJfe6IwDkWQ=" }, { "name": "Meena Gupta", "position": "Vlogging Expert", "profilePic": "https://www.shutterstock.com/image-photo/profile-picture-smiling-millennial-indian-260nw-1826745269.jpg" }],
+        "eventType": "Online"
+
+
+    },
+    {
+        "title": "Doctors Meetup",
+        "host": "National Doctors",
+        "image": "https://within3.com/wp-content/uploads/2022/06/W3_02.04.22_PurposeofMedConferences.jpg",
+        "details": "We invite all medical professionals to attend the Doctor’s Meetup 2025 – an exclusive event dedicated to fostering collaboration, knowledge sharing, and the advancement of healthcare practices. Whether you're a physician, specialist, or healthcare innovator, this is your chance to network, discuss the latest medical breakthroughs, and share insights with colleagues across different fields.",
+        "dress": "Formals",
+        "age": "25 and above",
+        "tags": ["medical", "doctors", "healthcare"],
+        "startDate": "2025-04-07T10:30:00Z",
+        "endDate": "2025-06-10T14:30:00Z",
+        "address": "New Hospital Grey Area, New York City",
+        "price": 1500,
+        "speakers": [{ "name": "Dr.Peter", "position": "Cardiologist", "profilePic": "https://www.shutterstock.com/image-photo/smiling-businesswoman-looking-camera-webcam-260nw-1302585136.jpg" }, { "name": "Meena Gupta", "position": "Vlogging Expert", "profilePic": "https://www.shutterstock.com/image-photo/head-shot-portrait-confident-positive-260nw-2473271385.jpg" }],
+        "eventType": "Online"
+
+
+    },
+    {
+        "title": "Entrepreneur Conclave",
+        "host": "Top Startup Founders",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F905832063%2F759623017333%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=3cba7fd5891eb2665a6c88fe242af385",
+        "details": "The Entrepreneur Conclave 2025 is your gateway to connect with like-minded innovators, investors, and industry leaders. Whether you're an established entrepreneur or just starting your journey, this event will provide you with the insights, strategies, and network you need to take your business to the next level.",
+        "dress": "Formals",
+        "age": "30 and above",
+        "tags": ["entrepreneurship", "founders", "startups"],
+        "startDate": "2025-02-07T10:30:00Z",
+        "endDate": "2025-03-10T14:30:00Z",
+        "address": "Park Arena Big City, Washington City",
+        "price": 2500,
+        "speakers": [{ "name": "Andrew Bonn", "position": "Founder", "profilePic": "https://img.freepik.com/free-photo/teenager-boy-portrait_23-2148105678.jpg" }, { "name": "Raj Gupta", "position": "Ex CEO RockPlant", "profilePic": "https://xsgames.co/randomusers/assets/avatars/male/63.jpg" }],
+        "eventType": "Online"
+
+
+    }
+]
