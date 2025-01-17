@@ -14,8 +14,7 @@ corsOptions = {
 
 app.use(cors(corsOptions))
 
-const jsonData = fs.readFileSync("events.json", "utf-8")
-const eventsData = JSON.parse(jsonData)
+
 
 const getData = async() => {
     try {
